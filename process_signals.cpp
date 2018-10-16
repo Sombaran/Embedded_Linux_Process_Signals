@@ -1,11 +1,8 @@
-//============================================================================
-// Name        : process_signals.cpp
-// Author      : Som Gupta
-// Version     :
-// Copyright   : Embedded_linux_tutorial
-// Description : Hello World in C++, Ansi-style
-//============================================================================
-
+/** 
+ *Originally created for testing purpose. Made by Sombaran Gupta.
+ * For any further query email me @ guptasombaran@yahoo.com
+ * Created for Linux environment
+ */
 
 #include "process_signals.hpp"
 
